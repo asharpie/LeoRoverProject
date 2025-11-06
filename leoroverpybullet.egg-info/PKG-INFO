@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: leoroverpybullet
+Version: 0.1
+Requires-Dist: stable-baselines3
+Requires-Dist: pybullet
+Requires-Dist: gym
